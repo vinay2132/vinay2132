@@ -7,7 +7,7 @@
 🎯 **Key Interests**: Full-Stack Development | AI & Machine Learning | Data Science | Cloud Computing | DevOps  
 
 📫 **Let's Connect**:  
-🌐 Portfolio: [vinay2132.me](https://vinay2132.me)  
+🌐 Portfolio: [vinay2132.me](https://bit.ly/3YAmQ4L)  
 📧 Email: daramvinay12@gmail.com  
 💼 LinkedIn: [linkedin.com/in/daram-vinay](https://linkedin.com/in/daram-vinay)  
 🐙 GitHub: [github.com/vinay2132](https://github.com/vinay2132)  
