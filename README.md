@@ -9,7 +9,7 @@
 📫 **Let's Connect**:  
 🌐 Portfolio: [vinay2132.me](https://bit.ly/3YAmQ4L)  
 📧 Email: daramvinay12@gmail.com  
-💼 LinkedIn: [linkedin.com/in/daram-vinay](https://linkedin.com/in/daram-vinay)  
+💼 LinkedIn: [linkedin.com/in/daram-vinay](https://www.linkedin.com/in/daramvinay/)  
 🐙 GitHub: [github.com/vinay2132](https://github.com/vinay2132)  
 
 ---
