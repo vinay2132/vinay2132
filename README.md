@@ -1,80 +1,90 @@
 <div align="center">
 
-# Hi, I'm Vinay Daram 👋
+# 👋 Hey, I'm Vinay!
 
-### Full-Stack Developer · Data Science Enthusiast · Cloud & ML Practitioner
+### Full-Stack Developer · AI/ML Engineer · Builder of Agentic Systems
 
-Master's in Data Science @ **University of North Texas** (GPA 3.5/4) · 3+ years of experience building scalable, high-performance software
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=720&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;LLM+Orchestration+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+Multi-Agent+Systems;MS+Data+Science+%40+University+of+North+Texas;Shipping+production-grade+software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vinay2132.me-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://bit.ly/3YAmQ4L)
-[![Email](https://img.shields.io/badge/Email-daramvinay12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:daramvinay12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vinay2132-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vinay2132)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vinayramesh6020-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayramesh6020/)
+[![Email](https://img.shields.io/badge/Email-vinayramesh6020%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayramesh6020@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinay2132.me-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bit.ly/3YAmQ4L)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+```bash
+visitor@github:~$ whoami
 
-- 🎓 Pursuing my **M.S. in Data Science** at the University of North Texas
-- 💼 **3+ years** of experience across software development, machine learning, and cloud technologies
-- 🔭 I specialize in **Machine Learning, Deep Learning, Backend Development, and Cloud Computing**
-- 🌱 Passionate about building **scalable applications** and contributing to **open source**
-- 🎯 Interests: Full-Stack Development · AI/ML · Data Science · Cloud · DevOps
+  Name      : Vinay
+  Role      : Full-Stack Developer (Java / Spring Boot / React) + AI/ML Engineer
+  Education : MS in Data Science — University of North Texas
+  Focus     : Agentic AI · RAG Pipelines · MCP Servers · Scalable Microservices
+  Cloud     : AWS Certified Developer – Associate ☁️
+  Status    : Building. Shipping. Repeat. 🟢
+```
 
----
+## 🧠 What I Do
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Data, Cloud & DevOps**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- ⚙️ **Backend at scale** — Spring Boot microservices, Kafka event streams, REST APIs, Cassandra/PostgreSQL, CI/CD with Jenkins & Docker on AWS/PCF
+- 🤖 **Agentic AI systems** — multi-agent orchestration (LangChain/LangGraph/CrewAI), production RAG with hybrid retrieval + re-ranking, hallucination guards
+- 🔌 **Model Context Protocol (MCP)** — custom MCP servers bridging LLMs to databases, file systems, and project tooling with safety-first SQL validation
+- 🎨 **Frontend that performs** — React, Angular, Redux, performance tuning, race-condition-free async state
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Highlights | Tech |
-|---|---|---|
-| **🎙️ AI-Powered Multilingual Dubbing** | End-to-end dubbing platform — **88%** transcription accuracy, **80%** translation correctness | Python · Whisper ASR · Google Cloud Translate · Edge TTS |
-| **🩺 Fetal Distress Prediction** | ML classification model with **95% accuracy** and a Flask web interface for clinicians | Python · Random Forest · Flask |
-| **🧠 Gender & Age Prediction (CNN)** | Deep learning model reaching **90% accuracy** on the UTKFace dataset | Python · TensorFlow · OpenCV |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🤖 **multi-agent-ML-assistant** | Supervisor + worker agents automating the full ML lifecycle — preprocessing, feature engineering, model selection, evaluation | `Python` `LangGraph` `Scikit-Learn` |
+| 📚 **deep-learning-rag-agent** | Production RAG with hybrid dense + BM25 retrieval, cross-encoder re-ranking, and a self-correction loop that kills hallucinations | `Python` `Vector DBs` `LlamaIndex` |
+| 🗄️ **supabase-mcp-ai** | MCP server letting LLMs safely introspect schemas and run guarded SQL against Postgres/Supabase | `TypeScript` `PostgreSQL` `MCP` |
+| 🌊 **AetherFlow** | Fault-tolerant workflow orchestration engine with async queues and circuit breakers | `Go/Java` `Redis` `Event-Driven` |
+| 🎬 **AI-Video-Dubbing-Toolkit** | End-to-end multilingual dubbing — 88% transcription accuracy, timestamp-perfect voice re-rendering | `Python` `Whisper` `TTS` `FFmpeg` |
+| 📄 **resume-generator-pro** | ATS-optimized resume engine converting structured JSON into polished PDFs with AI-driven JD tailoring | `Node.js` `React` `Puppeteer` |
+| 🏥 **Fetal-Distress-Classification** | 95%-accurate clinical ML classifier on cardiotocography data with a Flask web UI | `Python` `Random Forest` `Flask` |
+| 👁️ **CNN Age & Gender Prediction** | Multi-head CNN hitting 90% accuracy on UTKFace | `TensorFlow` `OpenCV` |
 
-> 💡 Explore more in my [repositories](https://github.com/vinay2132?tab=repositories)
+---
+
+## 🔥 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233367A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI / LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-4B0082?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20(Pinecone%20%C2%B7%20Chroma)-00CED1?style=for-the-badge)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -82,27 +92,52 @@ Master's in Data Science @ **University of North Texas** (GPA 3.5/4) · 3+ years
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinay2132&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2132&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinay2132&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2132&layout=compact&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&langs_count=8" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vinay2132&theme=default&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vinay2132&theme=dark&hide_border=true&background=0d1117&ring=00BFFF&fire=FF6F61&currStreakLabel=00BFFF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to discussing **new projects, collaboration, and opportunities** in full-stack development, ML, and cloud.
-
-📧 **daramvinay12@gmail.com** · 🌐 [Portfolio](https://bit.ly/3YAmQ4L) · 🐙 [GitHub](https://github.com/vinay2132)
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vinay2132&style=flat-square&color=2563EB&label=Profile+Views)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinay2132&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area=true&area_color=002233&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<sub>*"Innovation, Coding, and Passion drive me."*</sub>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vinay2132&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```python
+current = {
+    "building"  : "Agentic AI tooling — MCP servers, multi-agent pipelines, RAG systems",
+    "sharpening": ["LangGraph", "Distributed Systems", "MLOps"],
+    "certified" : "AWS Certified Developer – Associate",
+    "open_to"   : "Full-time SDE / AI Engineering roles & open-source collabs ✅",
+}
+```
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=vinay2132&style=for-the-badge&color=00BFFF&label=PROFILE+VIEWS&labelColor=161b22)
+
+<sub><code>// turning ideas into production systems · one commit at a time</code></sub>
 
 </div>
